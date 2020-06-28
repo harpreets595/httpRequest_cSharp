@@ -1,0 +1,13 @@
+C:\Users\Harpreet Singh\source\repos\httpRequest_cSharp\bin\Debug\netcoreapp3.1\httpRequest_cSharp.exe
+C:\Users\Harpreet Singh\source\repos\httpRequest_cSharp\bin\Debug\netcoreapp3.1\httpRequest_cSharp.deps.json
+C:\Users\Harpreet Singh\source\repos\httpRequest_cSharp\bin\Debug\netcoreapp3.1\httpRequest_cSharp.runtimeconfig.json
+C:\Users\Harpreet Singh\source\repos\httpRequest_cSharp\bin\Debug\netcoreapp3.1\httpRequest_cSharp.runtimeconfig.dev.json
+C:\Users\Harpreet Singh\source\repos\httpRequest_cSharp\bin\Debug\netcoreapp3.1\httpRequest_cSharp.dll
+C:\Users\Harpreet Singh\source\repos\httpRequest_cSharp\bin\Debug\netcoreapp3.1\httpRequest_cSharp.pdb
+C:\Users\Harpreet Singh\source\repos\httpRequest_cSharp\obj\Debug\netcoreapp3.1\httpRequest_cSharp.csprojAssemblyReference.cache
+C:\Users\Harpreet Singh\source\repos\httpRequest_cSharp\obj\Debug\netcoreapp3.1\httpRequest_cSharp.AssemblyInfoInputs.cache
+C:\Users\Harpreet Singh\source\repos\httpRequest_cSharp\obj\Debug\netcoreapp3.1\httpRequest_cSharp.AssemblyInfo.cs
+C:\Users\Harpreet Singh\source\repos\httpRequest_cSharp\obj\Debug\netcoreapp3.1\httpRequest_cSharp.csproj.CoreCompileInputs.cache
+C:\Users\Harpreet Singh\source\repos\httpRequest_cSharp\obj\Debug\netcoreapp3.1\httpRequest_cSharp.dll
+C:\Users\Harpreet Singh\source\repos\httpRequest_cSharp\obj\Debug\netcoreapp3.1\httpRequest_cSharp.pdb
+C:\Users\Harpreet Singh\source\repos\httpRequest_cSharp\obj\Debug\netcoreapp3.1\httpRequest_cSharp.genruntimeconfig.cache
